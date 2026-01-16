@@ -11,6 +11,14 @@ Azure VM → Windows Server → Browser → Zoho Desk
 
 ## Windows Server Setup
 VM Specs
+  8GB Ram
+  
+OS Version
+  2022 Windows
+Local Users
+  Agent 1
+  Agent 2
+  Admin
 
 ## Zoho Desk Integration
 Email-to-ticket
